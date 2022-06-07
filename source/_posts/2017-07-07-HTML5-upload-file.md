@@ -2,8 +2,7 @@ title: FormData异步上传文件
 date: 2017/7/7 10:10
 updated: 2017/7/7 10:10
 tags:
-	- HTML5
-	- Upload
+- HTML5
 ---
 
 

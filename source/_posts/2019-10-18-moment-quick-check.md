@@ -3,8 +3,7 @@ title: moment-quick-check
 date: 2019/10/18 21:40 
 updated: 2019/10/18 21:40 
 tags: 
-    - moment
-
+- moment
 ---
 
 # 获取时间

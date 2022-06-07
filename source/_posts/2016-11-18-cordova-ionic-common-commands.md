@@ -2,8 +2,8 @@ title: cordova ionic 常用命令
 date: 2016-11-18 20:08:08
 updated: 2016-11-30 20:08:08
 tags:
-	- Cordova
-	- Ionic
+- Cordova
+- Ionic
 ---
 
 # 安装 cordova：

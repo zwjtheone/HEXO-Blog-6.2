@@ -1,10 +1,8 @@
 title: 浅谈javacript 笔记系列--- 设计模式 之单例模式
 date: 2016-06-11 11:57:13
-categories:
-  - javascript
 tags:
-  - javascript
-  - 设计模式
+- JavaScript
+- 设计模式
 ---
 
 # javascript设计模式之单例模式

@@ -2,8 +2,8 @@ title: 修改ionic中android程序的包名
 date: 2016/11/30 15:42
 updated: 2016/11/30 15:42
 tags:
-	- Ionic
-	- Android
+- Ionic
+- Android
 ---
 
 

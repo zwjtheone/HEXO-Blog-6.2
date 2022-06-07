@@ -1,9 +1,7 @@
 title: javascript深入浅出系列-es6-编写现代Javascript代码
 date: 2017-06-01 19:20:13
 tags:
-  - javascript
-  - es-2015
-  - linter
+- JavaScript
 ---
 
 原文： https://dev.to/scastiel/writing-modern-javascript-code

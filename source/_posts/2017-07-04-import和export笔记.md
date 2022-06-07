@@ -1,11 +1,7 @@
 title: 彻底搞清楚javascript中的require、import和export
 date: 2017-07-04 20:20:13
 tags:
-  - javascript
-  - es-2015
-  - require
-  - import
-  - export
+- JavaScript
 ---
 
 ![](https://ww2.sinaimg.cn/large/006tKfTcgy1fh7u9d2ixbj308c08bdfs.jpg)

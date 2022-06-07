@@ -2,7 +2,7 @@ title: JavaScript常用方法总结
 date: 2017/7/17 11:51
 updated: 2017/7/17 11:51
 tags:
-	- JavaScript
+- JavaScript
 ---
 
 # 返回字符串长度，汉字计数为2

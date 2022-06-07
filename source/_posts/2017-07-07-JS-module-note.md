@@ -2,8 +2,7 @@ title: JS中的模块化演变
 date: 2017/7/7 9:25
 updated: 2017/7/7 9:30
 tags:
-	- JavaScript
-	- Module
+- JavaScript
 ---
 
 ![](https://ww2.sinaimg.cn/large/006tKfTcgy1fh7u9d2ixbj308c08bdfs.jpg)
