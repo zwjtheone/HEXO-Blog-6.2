@@ -1,5 +1,5 @@
 ---
-title: vue2最佳实践
+title: vue监听，val、oldVal值相同问题
 date: 2022-06-06 00:00:00
 tags:
 - vue
