@@ -2,6 +2,8 @@
 title: This project is configured to use pkgName
 date: 2023-04-11 22:17:18
 tags:
+  - pnpm
+  - yarn
 ---
 
 

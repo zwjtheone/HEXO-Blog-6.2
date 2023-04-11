@@ -2,6 +2,8 @@
 title: zsh安装&配置nvm
 date: 2023-04-11 22:15:11
 tags:
+  - zsh
+  - nvm
 ---
 
 vim ~/.zshrc
